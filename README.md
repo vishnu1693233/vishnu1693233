@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vishnu1693233
-- 👀 I’m interested in software engineering cyber security
+- 👀 I’m interested in software engineering
 - 🌱 I’m currently learning Computer science and engineering
 - 📫 To reach me vishnukanthreddy921@gmail.com
 
